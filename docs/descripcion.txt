@@ -1,0 +1,6 @@
+UNIVERSIDAD ṔLITECNICA SALESIANA 
+Carrera de Ingenieria de Sistemas 
+SEMINARIO PROFESIONAL - Node.js + Mongo DB 
+
+Clases - Diapositivas sobre las clases de seminario 
+talleres - Descripcion de los talleres del seminario 
